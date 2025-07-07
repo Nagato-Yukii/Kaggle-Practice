@@ -4,4 +4,6 @@ Titanic - Machine Learning from Disaster
 
 URL:https://www.kaggle.com/competitions/titanic/data
 
-决策树: 0.834
+方法及准确率:
+
+决策树(decision_tree.ipynb): 0.834
