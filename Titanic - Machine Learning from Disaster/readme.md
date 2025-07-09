@@ -7,3 +7,4 @@ URL:https://www.kaggle.com/competitions/titanic/data
 方法及准确率:
 
 决策树(decision_tree.ipynb): 0.73684
+决策树(decision_tree1.ipynb): 0.69377 加入复杂的手动特征工程
