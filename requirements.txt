@@ -8,3 +8,4 @@ LightGBM
 optuna
 catkin-pkg
 sympy
+catboost
