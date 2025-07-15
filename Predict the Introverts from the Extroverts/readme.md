@@ -10,4 +10,4 @@ Baseline: public score = 0.973279 最优超参数搜索
 
 0: public score = 0.976518 集成模型Ensemble
 
-1：public score = 0.976518 最优超参数搜索+Ensemble
+1: public score = 0.976518 最优超参数搜索+Ensemble
