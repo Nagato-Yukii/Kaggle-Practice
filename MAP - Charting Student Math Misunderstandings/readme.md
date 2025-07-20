@@ -16,6 +16,6 @@ URL:https://www.kaggle.com/competitions/map-charting-student-math-misunderstandi
   
 `  `  PUBLIC SCORE = 0.936
 
-`  `  RUN TIME = 1m50s on GPU T4 x2
+`  `  RUN TIME = 1m50s on GPU T4 x2 (Contains only the inference part)
 
 `  `  MODEL = ModernBERT-Large-CV938
