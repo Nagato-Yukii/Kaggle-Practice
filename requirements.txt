@@ -11,3 +11,4 @@ sympy
 catboost
 transformers
 datasets
+tiktoken
