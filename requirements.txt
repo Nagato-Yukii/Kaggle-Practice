@@ -10,3 +10,4 @@ catkin-pkg
 sympy
 catboost
 transformers
+datasets
