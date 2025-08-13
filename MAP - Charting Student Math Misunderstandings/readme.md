@@ -22,7 +22,7 @@ URL:https://www.kaggle.com/competitions/map-charting-student-math-misunderstandi
 
 `  `  MODEL = microsoft/deberta-v3-large
 
-`  `  Situation:相对于0,降低了学习率并加入了lr_scheduler_type
+`  `  Situation:相对于0,降低了学习率并加入了lr_scheduler_type和warmup
 
 # Baseline2: 
   
