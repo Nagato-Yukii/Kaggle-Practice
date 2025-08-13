@@ -4,13 +4,25 @@ MAP——绘制学生数学误解图表
 
 URL:https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings/leaderboard
 
-# Baseline1: 
+# debertav3large_0: 
   
-`  `  PUBLIC SCORE = 0.929
+`  `  PUBLIC SCORE = 0.54
 
-`  `  RUN TIME = 8h16m9s on GPU T4 x2
+`  `  RUN TIME = 4h on NVIDIA GeForce RTX 4060 for training + 2min on Kaggle GPU T4 x2 for inference
 
 `  `  MODEL = microsoft/deberta-v3-large
+
+`  `  Situation:训练几乎没有长进
+
+# debertav3large_1: 
+  
+`  `  PUBLIC SCORE = 0.935
+
+`  `  RUN TIME = 4h on NVIDIA GeForce RTX 4060 for training + 2min on Kaggle GPU T4 x2 for inference
+
+`  `  MODEL = microsoft/deberta-v3-large
+
+`  `  Situation:相对于0,降低了学习率并加入了lr_scheduler_type
 
 # Baseline2: 
   
